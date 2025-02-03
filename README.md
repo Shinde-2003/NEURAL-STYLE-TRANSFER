@@ -92,3 +92,6 @@ By leveraging cloud-based execution in Google Colab, users can run this applicat
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/d470cd6c-9552-4022-9391-11de2f46dacf)
+![Image](https://github.com/user-attachments/assets/c069808f-d456-4158-8ded-dc8706c95996)
+
